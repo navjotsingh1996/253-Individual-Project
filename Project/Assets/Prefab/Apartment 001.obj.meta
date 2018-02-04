@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 2f41b5f46d4f02e4db2b62b7edae1c1d
+timeCreated: 1517634154
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BackDoor001
+    100004: BackDoor002
+    100006: BackDoor003
+    100008: BackDoor004
+    100010: BackRoofFrame
+    100012: BathRoomDoor001
+    100014: BathRoomDoor002
+    100016: BathRoomDoor003
+    100018: BathRoomDoor004
+    100020: BathRoomDoor005
+    100022: BathRoomDoor006
+    100024: BathRoomDoor007
+    100026: BathRoomDoor008
+    100028: BathRoomWindow001
+    100030: BathRoomWindow002
+    100032: BathRoomWindow003
+    100034: BathRoomWindow004
+    100036: BathRoomWindow005
+    100038: BathRoomWindow006
+    100040: BathRoomWindow007
+    100042: BathRoomWindow008
+    100044: BedRoomDoor001
+    100046: BedRoomDoor002
+    100048: BedRoomDoor003
+    100050: BedRoomDoor004
+    100052: BedRoomDoor005
+    100054: BedRoomDoor006
+    100056: BedRoomDoor007
+    100058: BedRoomDoor008
+    100060: BedRoomDoor009
+    100062: BedRoomDoor010
+    100064: BedRoomDoor011
+    100066: BedRoomDoor012
+    100068: BedRoomRoof__Both_
+    100070: BedRoomWindow001
+    100072: BedRoomWindow002
+    100074: BedRoomWindow003
+    100076: BedRoomWindow004
+    100078: BedRoomWindow005
+    100080: BedRoomWindow006
+    100082: BedRoomWindow007
+    100084: BedRoomWindow008
+    100086: BedRoomWindow009
+    100088: BedRoomWindow010
+    100090: BedRoomWindow011
+    100092: BedRoomWindow012
+    100094: ClosetDoor001
+    100096: ClosetDoor002
+    100098: ClosetDoor003
+    100100: ClosetDoor004
+    100102: ClosetDoor005
+    100104: ClosetDoor006
+    100106: ClosetDoor007
+    100108: ClosetDoor008
+    100110: FirstFloorBackPatioPillars
+    100112: FirstFloorFrontPillars
+    100114: FirstFloorWalls_MultiSubObject_
+    100116: FirstFloorWallTrims
+    100118: FirstStoryRoof_Inside_
+    100120: Floor_MultiSubObject_MAT_001
+    100122: Floor_MultiSubObject_MAT_002
+    100124: FrontDoor001
+    100126: FrontDoor002
+    100128: FrontDoor003
+    100130: FrontDoor004
+    100132: HallDoor001
+    100134: HallDoor002
+    100136: HallDoor003
+    100138: HallDoor004
+    100140: LivingRoomWindow001
+    100142: LivingRoomWindow002
+    100144: LivingRoomWindow003
+    100146: LivingRoomWindow004
+    100148: MainRoof
+    100150: MainRoofFrame
+    100152: OutSideCornerFrames
+    100154: PivotDoor002
+    100156: PivotDoor003
+    100158: PivotDoor004
+    100160: PivotDoor005
+    100162: PivotDoor006
+    100164: PivotDoor007
+    100166: PivotDoor008
+    100168: PivotDoor009
+    100170: PivotDoor010
+    100172: PivotDoor011
+    100174: PivotDoor012
+    100176: PivotDoor013
+    100178: PivotDoor014
+    100180: PivotDoor015
+    100182: PivotDoor016
+    100184: PivotDoor017
+    100186: PivotDoor018
+    100188: PivotDoor019
+    100190: PivotDoor020
+    100192: PivotDoor021
+    100194: PivotDoor022
+    100196: PivotDoor023
+    100198: PivotDoor024
+    100200: PivotDoor025
+    100202: PivotDoor026
+    100204: PivotDoor027
+    100206: PivotDoor028
+    100208: PivotDoor029
+    100210: PivotDoor030
+    100212: PivotDoor031
+    100214: PivotDoor032
+    100216: PivotDoor033
+    100218: RoofWalls
+    100220: SecondFloorFrontRailing
+    100222: SecondFloorPatioRailing
+    100224: SecondFloorPatios
+    100226: SecondFloorPillars
+    100228: SecondFloorWalkWay
+    100230: SecondFloorWalls_MultiSubObject_001
+    100232: SecondFloorWallTrims
+    100234: SecondStoryFloor_MSOM_
+    100236: SecondStoryRoof_Inside_
+    100238: StraightStair
+    100240: WallTrims002
+    400000: //RootNode
+    400002: BackDoor001
+    400004: BackDoor002
+    400006: BackDoor003
+    400008: BackDoor004
+    400010: BackRoofFrame
+    400012: BathRoomDoor001
+    400014: BathRoomDoor002
+    400016: BathRoomDoor003
+    400018: BathRoomDoor004
+    400020: BathRoomDoor005
+    400022: BathRoomDoor006
+    400024: BathRoomDoor007
+    400026: BathRoomDoor008
+    400028: BathRoomWindow001
+    400030: BathRoomWindow002
+    400032: BathRoomWindow003
+    400034: BathRoomWindow004
+    400036: BathRoomWindow005
+    400038: BathRoomWindow006
+    400040: BathRoomWindow007
+    400042: BathRoomWindow008
+    400044: BedRoomDoor001
+    400046: BedRoomDoor002
+    400048: BedRoomDoor003
+    400050: BedRoomDoor004
+    400052: BedRoomDoor005
+    400054: BedRoomDoor006
+    400056: BedRoomDoor007
+    400058: BedRoomDoor008
+    400060: BedRoomDoor009
+    400062: BedRoomDoor010
+    400064: BedRoomDoor011
+    400066: BedRoomDoor012
+    400068: BedRoomRoof__Both_
+    400070: BedRoomWindow001
+    400072: BedRoomWindow002
+    400074: BedRoomWindow003
+    400076: BedRoomWindow004
+    400078: BedRoomWindow005
+    400080: BedRoomWindow006
+    400082: BedRoomWindow007
+    400084: BedRoomWindow008
+    400086: BedRoomWindow009
+    400088: BedRoomWindow010
+    400090: BedRoomWindow011
+    400092: BedRoomWindow012
+    400094: ClosetDoor001
+    400096: ClosetDoor002
+    400098: ClosetDoor003
+    400100: ClosetDoor004
+    400102: ClosetDoor005
+    400104: ClosetDoor006
+    400106: ClosetDoor007
+    400108: ClosetDoor008
+    400110: FirstFloorBackPatioPillars
+    400112: FirstFloorFrontPillars
+    400114: FirstFloorWalls_MultiSubObject_
+    400116: FirstFloorWallTrims
+    400118: FirstStoryRoof_Inside_
+    400120: Floor_MultiSubObject_MAT_001
+    400122: Floor_MultiSubObject_MAT_002
+    400124: FrontDoor001
+    400126: FrontDoor002
+    400128: FrontDoor003
+    400130: FrontDoor004
+    400132: HallDoor001
+    400134: HallDoor002
+    400136: HallDoor003
+    400138: HallDoor004
+    400140: LivingRoomWindow001
+    400142: LivingRoomWindow002
+    400144: LivingRoomWindow003
+    400146: LivingRoomWindow004
+    400148: MainRoof
+    400150: MainRoofFrame
+    400152: OutSideCornerFrames
+    400154: PivotDoor002
+    400156: PivotDoor003
+    400158: PivotDoor004
+    400160: PivotDoor005
+    400162: PivotDoor006
+    400164: PivotDoor007
+    400166: PivotDoor008
+    400168: PivotDoor009
+    400170: PivotDoor010
+    400172: PivotDoor011
+    400174: PivotDoor012
+    400176: PivotDoor013
+    400178: PivotDoor014
+    400180: PivotDoor015
+    400182: PivotDoor016
+    400184: PivotDoor017
+    400186: PivotDoor018
+    400188: PivotDoor019
+    400190: PivotDoor020
+    400192: PivotDoor021
+    400194: PivotDoor022
+    400196: PivotDoor023
+    400198: PivotDoor024
+    400200: PivotDoor025
+    400202: PivotDoor026
+    400204: PivotDoor027
+    400206: PivotDoor028
+    400208: PivotDoor029
+    400210: PivotDoor030
+    400212: PivotDoor031
+    400214: PivotDoor032
+    400216: PivotDoor033
+    400218: RoofWalls
+    400220: SecondFloorFrontRailing
+    400222: SecondFloorPatioRailing
+    400224: SecondFloorPatios
+    400226: SecondFloorPillars
+    400228: SecondFloorWalkWay
+    400230: SecondFloorWalls_MultiSubObject_001
+    400232: SecondFloorWallTrims
+    400234: SecondStoryFloor_MSOM_
+    400236: SecondStoryRoof_Inside_
+    400238: StraightStair
+    400240: WallTrims002
+    2300000: BackDoor001
+    2300002: BackDoor002
+    2300004: BackDoor003
+    2300006: BackDoor004
+    2300008: BackRoofFrame
+    2300010: BathRoomDoor001
+    2300012: BathRoomDoor002
+    2300014: BathRoomDoor003
+    2300016: BathRoomDoor004
+    2300018: BathRoomDoor005
+    2300020: BathRoomDoor006
+    2300022: BathRoomDoor007
+    2300024: BathRoomDoor008
+    2300026: BathRoomWindow001
+    2300028: BathRoomWindow002
+    2300030: BathRoomWindow003
+    2300032: BathRoomWindow004
+    2300034: BathRoomWindow005
+    2300036: BathRoomWindow006
+    2300038: BathRoomWindow007
+    2300040: BathRoomWindow008
+    2300042: BedRoomDoor001
+    2300044: BedRoomDoor002
+    2300046: BedRoomDoor003
+    2300048: BedRoomDoor004
+    2300050: BedRoomDoor005
+    2300052: BedRoomDoor006
+    2300054: BedRoomDoor007
+    2300056: BedRoomDoor008
+    2300058: BedRoomDoor009
+    2300060: BedRoomDoor010
+    2300062: BedRoomDoor011
+    2300064: BedRoomDoor012
+    2300066: BedRoomRoof__Both_
+    2300068: BedRoomWindow001
+    2300070: BedRoomWindow002
+    2300072: BedRoomWindow003
+    2300074: BedRoomWindow004
+    2300076: BedRoomWindow005
+    2300078: BedRoomWindow006
+    2300080: BedRoomWindow007
+    2300082: BedRoomWindow008
+    2300084: BedRoomWindow009
+    2300086: BedRoomWindow010
+    2300088: BedRoomWindow011
+    2300090: BedRoomWindow012
+    2300092: ClosetDoor001
+    2300094: ClosetDoor002
+    2300096: ClosetDoor003
+    2300098: ClosetDoor004
+    2300100: ClosetDoor005
+    2300102: ClosetDoor006
+    2300104: ClosetDoor007
+    2300106: ClosetDoor008
+    2300108: FirstFloorBackPatioPillars
+    2300110: FirstFloorFrontPillars
+    2300112: FirstFloorWalls_MultiSubObject_
+    2300114: FirstFloorWallTrims
+    2300116: FirstStoryRoof_Inside_
+    2300118: Floor_MultiSubObject_MAT_001
+    2300120: Floor_MultiSubObject_MAT_002
+    2300122: FrontDoor001
+    2300124: FrontDoor002
+    2300126: FrontDoor003
+    2300128: FrontDoor004
+    2300130: HallDoor001
+    2300132: HallDoor002
+    2300134: HallDoor003
+    2300136: HallDoor004
+    2300138: LivingRoomWindow001
+    2300140: LivingRoomWindow002
+    2300142: LivingRoomWindow003
+    2300144: LivingRoomWindow004
+    2300146: MainRoof
+    2300148: MainRoofFrame
+    2300150: OutSideCornerFrames
+    2300152: PivotDoor002
+    2300154: PivotDoor003
+    2300156: PivotDoor004
+    2300158: PivotDoor005
+    2300160: PivotDoor006
+    2300162: PivotDoor007
+    2300164: PivotDoor008
+    2300166: PivotDoor009
+    2300168: PivotDoor010
+    2300170: PivotDoor011
+    2300172: PivotDoor012
+    2300174: PivotDoor013
+    2300176: PivotDoor014
+    2300178: PivotDoor015
+    2300180: PivotDoor016
+    2300182: PivotDoor017
+    2300184: PivotDoor018
+    2300186: PivotDoor019
+    2300188: PivotDoor020
+    2300190: PivotDoor021
+    2300192: PivotDoor022
+    2300194: PivotDoor023
+    2300196: PivotDoor024
+    2300198: PivotDoor025
+    2300200: PivotDoor026
+    2300202: PivotDoor027
+    2300204: PivotDoor028
+    2300206: PivotDoor029
+    2300208: PivotDoor030
+    2300210: PivotDoor031
+    2300212: PivotDoor032
+    2300214: PivotDoor033
+    2300216: RoofWalls
+    2300218: SecondFloorFrontRailing
+    2300220: SecondFloorPatioRailing
+    2300222: SecondFloorPatios
+    2300224: SecondFloorPillars
+    2300226: SecondFloorWalkWay
+    2300228: SecondFloorWalls_MultiSubObject_001
+    2300230: SecondFloorWallTrims
+    2300232: SecondStoryFloor_MSOM_
+    2300234: SecondStoryRoof_Inside_
+    2300236: StraightStair
+    2300238: WallTrims002
+    3300000: BackDoor001
+    3300002: BackDoor002
+    3300004: BackDoor003
+    3300006: BackDoor004
+    3300008: BackRoofFrame
+    3300010: BathRoomDoor001
+    3300012: BathRoomDoor002
+    3300014: BathRoomDoor003
+    3300016: BathRoomDoor004
+    3300018: BathRoomDoor005
+    3300020: BathRoomDoor006
+    3300022: BathRoomDoor007
+    3300024: BathRoomDoor008
+    3300026: BathRoomWindow001
+    3300028: BathRoomWindow002
+    3300030: BathRoomWindow003
+    3300032: BathRoomWindow004
+    3300034: BathRoomWindow005
+    3300036: BathRoomWindow006
+    3300038: BathRoomWindow007
+    3300040: BathRoomWindow008
+    3300042: BedRoomDoor001
+    3300044: BedRoomDoor002
+    3300046: BedRoomDoor003
+    3300048: BedRoomDoor004
+    3300050: BedRoomDoor005
+    3300052: BedRoomDoor006
+    3300054: BedRoomDoor007
+    3300056: BedRoomDoor008
+    3300058: BedRoomDoor009
+    3300060: BedRoomDoor010
+    3300062: BedRoomDoor011
+    3300064: BedRoomDoor012
+    3300066: BedRoomRoof__Both_
+    3300068: BedRoomWindow001
+    3300070: BedRoomWindow002
+    3300072: BedRoomWindow003
+    3300074: BedRoomWindow004
+    3300076: BedRoomWindow005
+    3300078: BedRoomWindow006
+    3300080: BedRoomWindow007
+    3300082: BedRoomWindow008
+    3300084: BedRoomWindow009
+    3300086: BedRoomWindow010
+    3300088: BedRoomWindow011
+    3300090: BedRoomWindow012
+    3300092: ClosetDoor001
+    3300094: ClosetDoor002
+    3300096: ClosetDoor003
+    3300098: ClosetDoor004
+    3300100: ClosetDoor005
+    3300102: ClosetDoor006
+    3300104: ClosetDoor007
+    3300106: ClosetDoor008
+    3300108: FirstFloorBackPatioPillars
+    3300110: FirstFloorFrontPillars
+    3300112: FirstFloorWalls_MultiSubObject_
+    3300114: FirstFloorWallTrims
+    3300116: FirstStoryRoof_Inside_
+    3300118: Floor_MultiSubObject_MAT_001
+    3300120: Floor_MultiSubObject_MAT_002
+    3300122: FrontDoor001
+    3300124: FrontDoor002
+    3300126: FrontDoor003
+    3300128: FrontDoor004
+    3300130: HallDoor001
+    3300132: HallDoor002
+    3300134: HallDoor003
+    3300136: HallDoor004
+    3300138: LivingRoomWindow001
+    3300140: LivingRoomWindow002
+    3300142: LivingRoomWindow003
+    3300144: LivingRoomWindow004
+    3300146: MainRoof
+    3300148: MainRoofFrame
+    3300150: OutSideCornerFrames
+    3300152: PivotDoor002
+    3300154: PivotDoor003
+    3300156: PivotDoor004
+    3300158: PivotDoor005
+    3300160: PivotDoor006
+    3300162: PivotDoor007
+    3300164: PivotDoor008
+    3300166: PivotDoor009
+    3300168: PivotDoor010
+    3300170: PivotDoor011
+    3300172: PivotDoor012
+    3300174: PivotDoor013
+    3300176: PivotDoor014
+    3300178: PivotDoor015
+    3300180: PivotDoor016
+    3300182: PivotDoor017
+    3300184: PivotDoor018
+    3300186: PivotDoor019
+    3300188: PivotDoor020
+    3300190: PivotDoor021
+    3300192: PivotDoor022
+    3300194: PivotDoor023
+    3300196: PivotDoor024
+    3300198: PivotDoor025
+    3300200: PivotDoor026
+    3300202: PivotDoor027
+    3300204: PivotDoor028
+    3300206: PivotDoor029
+    3300208: PivotDoor030
+    3300210: PivotDoor031
+    3300212: PivotDoor032
+    3300214: PivotDoor033
+    3300216: RoofWalls
+    3300218: SecondFloorFrontRailing
+    3300220: SecondFloorPatioRailing
+    3300222: SecondFloorPatios
+    3300224: SecondFloorPillars
+    3300226: SecondFloorWalkWay
+    3300228: SecondFloorWalls_MultiSubObject_001
+    3300230: SecondFloorWallTrims
+    3300232: SecondStoryFloor_MSOM_
+    3300234: SecondStoryRoof_Inside_
+    3300236: StraightStair
+    3300238: WallTrims002
+    4300000: BackDoor001
+    4300002: BackDoor002
+    4300004: BackDoor003
+    4300006: BackDoor004
+    4300008: BackRoofFrame
+    4300010: BathRoomDoor001
+    4300012: BathRoomDoor002
+    4300014: BathRoomDoor003
+    4300016: BathRoomDoor004
+    4300018: BathRoomDoor005
+    4300020: BathRoomDoor006
+    4300022: BathRoomDoor007
+    4300024: BathRoomDoor008
+    4300026: BathRoomWindow001
+    4300028: BathRoomWindow002
+    4300030: BathRoomWindow003
+    4300032: BathRoomWindow004
+    4300034: BathRoomWindow005
+    4300036: BathRoomWindow006
+    4300038: BathRoomWindow007
+    4300040: BathRoomWindow008
+    4300042: BedRoomDoor001
+    4300044: BedRoomDoor002
+    4300046: BedRoomDoor003
+    4300048: BedRoomDoor004
+    4300050: BedRoomDoor005
+    4300052: BedRoomDoor006
+    4300054: BedRoomDoor007
+    4300056: BedRoomDoor008
+    4300058: BedRoomDoor009
+    4300060: BedRoomDoor010
+    4300062: BedRoomDoor011
+    4300064: BedRoomDoor012
+    4300066: BedRoomRoof__Both_
+    4300068: BedRoomWindow001
+    4300070: BedRoomWindow002
+    4300072: BedRoomWindow003
+    4300074: BedRoomWindow004
+    4300076: BedRoomWindow005
+    4300078: BedRoomWindow006
+    4300080: BedRoomWindow007
+    4300082: BedRoomWindow008
+    4300084: BedRoomWindow009
+    4300086: BedRoomWindow010
+    4300088: BedRoomWindow011
+    4300090: BedRoomWindow012
+    4300092: ClosetDoor001
+    4300094: ClosetDoor002
+    4300096: ClosetDoor003
+    4300098: ClosetDoor004
+    4300100: ClosetDoor005
+    4300102: ClosetDoor006
+    4300104: ClosetDoor007
+    4300106: ClosetDoor008
+    4300108: FirstFloorBackPatioPillars
+    4300110: FirstFloorFrontPillars
+    4300112: FirstFloorWalls_MultiSubObject_
+    4300114: FirstFloorWallTrims
+    4300116: FirstStoryRoof_Inside_
+    4300118: Floor_MultiSubObject_MAT_001
+    4300120: Floor_MultiSubObject_MAT_002
+    4300122: FrontDoor001
+    4300124: FrontDoor002
+    4300126: FrontDoor003
+    4300128: FrontDoor004
+    4300130: HallDoor001
+    4300132: HallDoor002
+    4300134: HallDoor003
+    4300136: HallDoor004
+    4300138: LivingRoomWindow001
+    4300140: LivingRoomWindow002
+    4300142: LivingRoomWindow003
+    4300144: LivingRoomWindow004
+    4300146: MainRoof
+    4300148: MainRoofFrame
+    4300150: OutSideCornerFrames
+    4300152: PivotDoor002
+    4300154: PivotDoor003
+    4300156: PivotDoor004
+    4300158: PivotDoor005
+    4300160: PivotDoor006
+    4300162: PivotDoor007
+    4300164: PivotDoor008
+    4300166: PivotDoor009
+    4300168: PivotDoor010
+    4300170: PivotDoor011
+    4300172: PivotDoor012
+    4300174: PivotDoor013
+    4300176: PivotDoor014
+    4300178: PivotDoor015
+    4300180: PivotDoor016
+    4300182: PivotDoor017
+    4300184: PivotDoor018
+    4300186: PivotDoor019
+    4300188: PivotDoor020
+    4300190: PivotDoor021
+    4300192: PivotDoor022
+    4300194: PivotDoor023
+    4300196: PivotDoor024
+    4300198: PivotDoor025
+    4300200: PivotDoor026
+    4300202: PivotDoor027
+    4300204: PivotDoor028
+    4300206: PivotDoor029
+    4300208: PivotDoor030
+    4300210: PivotDoor031
+    4300212: PivotDoor032
+    4300214: PivotDoor033
+    4300216: RoofWalls
+    4300218: SecondFloorFrontRailing
+    4300220: SecondFloorPatioRailing
+    4300222: SecondFloorPatios
+    4300224: SecondFloorPillars
+    4300226: SecondFloorWalkWay
+    4300228: SecondFloorWalls_MultiSubObject_001
+    4300230: SecondFloorWallTrims
+    4300232: SecondStoryFloor_MSOM_
+    4300234: SecondStoryRoof_Inside_
+    4300236: StraightStair
+    4300238: WallTrims002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackDoor001Mat
+    second: {fileID: 2100000, guid: be3507a75a36ce64983e8af7d5e8303f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackDoor002Mat
+    second: {fileID: 2100000, guid: 8552a98d7bc19cb4893133ea82341366, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackDoor003Mat
+    second: {fileID: 2100000, guid: 17f79e7ae37b9ce41b00f8ac5bd62d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackDoor004Mat
+    second: {fileID: 2100000, guid: 9f2a6f5ed5587ac4481d2a2a8b646853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackRoofFrameMat
+    second: {fileID: 2100000, guid: 567ff637861c16943bc7ffe87043eb1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomDoor001Mat
+    second: {fileID: 2100000, guid: b89baba8cc9c9bc4fb977bb9ea6b6ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomDoor002Mat
+    second: {fileID: 2100000, guid: c437fb754b9d01a4897ec3daef11079c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomDoor003Mat
+    second: {fileID: 2100000, guid: 1d71e885db4309e4088ce3b28624bb5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomDoor004Mat
+    second: {fileID: 2100000, guid: 0f78cbdbedfc44d408252941a8eaba43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomDoor005Mat
+    second: {fileID: 2100000, guid: 46b0162b7b44c814aa7d549dcf1d0a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomDoor006Mat
+    second: {fileID: 2100000, guid: dead260568966184fa495b97b023eaef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomDoor007Mat
+    second: {fileID: 2100000, guid: c2b63f907e2a712458d9c062323f1e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomDoor008Mat
+    second: {fileID: 2100000, guid: 99776e5b92a13bd489ea8b644b377d15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomWindow001Mat
+    second: {fileID: 2100000, guid: 2cef7aaa47da3664394eff5028bc9376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomWindow002Mat
+    second: {fileID: 2100000, guid: d9249ab9cfdd85643b6a43a8426e28f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomWindow003Mat
+    second: {fileID: 2100000, guid: 4fd38f3ed2d7c9f46926b4e8dd544d40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomWindow004Mat
+    second: {fileID: 2100000, guid: 2910f4910538be64db83456acf86f667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomWindow005Mat
+    second: {fileID: 2100000, guid: 9a282e150e7582448b040bd53e6b613a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomWindow006Mat
+    second: {fileID: 2100000, guid: ca2f9f8b484288b4a8281357ef9bfed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomWindow007Mat
+    second: {fileID: 2100000, guid: f67c45a1443176f41ad79f864402dcd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathRoomWindow008Mat
+    second: {fileID: 2100000, guid: ee542af5cda960b4fa6fa314d62faefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor001Mat
+    second: {fileID: 2100000, guid: ed2f47c68f77cdc4ca5c9830f3989eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor002Mat
+    second: {fileID: 2100000, guid: 6bb082a4bd9d5474489e8f99bcabf148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor003Mat
+    second: {fileID: 2100000, guid: af87fd4618bc30f4886c95174672eb6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor004Mat
+    second: {fileID: 2100000, guid: b3969034ee6d2234f91a7d4f60263875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor005Mat
+    second: {fileID: 2100000, guid: a5d8dc0064834ff4da4231c87297552e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor006Mat
+    second: {fileID: 2100000, guid: db4aa1f9a9a796a48ba4894aa7c306cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor007Mat
+    second: {fileID: 2100000, guid: e13ea11f7893f33499fa15565af03450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor008Mat
+    second: {fileID: 2100000, guid: cd0159f620e493a42beae72f30428e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor009Mat
+    second: {fileID: 2100000, guid: b31c00779bc38d045810ca4f5b2ab56a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor010Mat
+    second: {fileID: 2100000, guid: 66d23a87a5d81e44c83d836a24668a53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor011Mat
+    second: {fileID: 2100000, guid: beefecca8280d854f9dad6c4159f5459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomDoor012Mat
+    second: {fileID: 2100000, guid: f490534d6f01b664aa84d914f7a5aff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomRoof__Both_Mat
+    second: {fileID: 2100000, guid: 9da685d4df62fdb4b8b5e84057d0d60f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow001Mat
+    second: {fileID: 2100000, guid: 923c3453a874bc04db6693a461e080a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow002Mat
+    second: {fileID: 2100000, guid: bdd4a9e9e902a6441ba59c49470f0a1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow003Mat
+    second: {fileID: 2100000, guid: 8a81e6acc36573e409c3bd96c972aff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow004Mat
+    second: {fileID: 2100000, guid: 729a983951171954a84a6b77bea20a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow005Mat
+    second: {fileID: 2100000, guid: c7b412e1abaa624459375eea391aa86d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow006Mat
+    second: {fileID: 2100000, guid: 4f033a2b8dd39784185d4aa6f8a93892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow007Mat
+    second: {fileID: 2100000, guid: 301ab17a9567428408212382cd03cd3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow008Mat
+    second: {fileID: 2100000, guid: 3e73443b8b281d341a40328e060c6bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow009Mat
+    second: {fileID: 2100000, guid: cc48f3e715a14934094d023c360346d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow010Mat
+    second: {fileID: 2100000, guid: 6c0cafb46adfcad4c90acc432e9dc26e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow011Mat
+    second: {fileID: 2100000, guid: 9291ec3a1c00d9d488e03934999c2840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedRoomWindow012Mat
+    second: {fileID: 2100000, guid: 14c2b6e7da33b9e4881c1efa3073e86d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClosetDoor001Mat
+    second: {fileID: 2100000, guid: 9cd54179d913dda44a834e4b8c9f3091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClosetDoor002Mat
+    second: {fileID: 2100000, guid: 03c3781ff5d3b6d4abb21a978a74e5c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClosetDoor003Mat
+    second: {fileID: 2100000, guid: e2c388116e00e0646b460cdbf371e25d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClosetDoor004Mat
+    second: {fileID: 2100000, guid: 7ee53f4dc4016bd44a6f905f9f09f8f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClosetDoor005Mat
+    second: {fileID: 2100000, guid: 5276c8d86b23a90479857f2ec437a8bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClosetDoor006Mat
+    second: {fileID: 2100000, guid: 71a9760527606294ab0ae45dee641a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClosetDoor007Mat
+    second: {fileID: 2100000, guid: 9a35a0c22ea191e42b01cca825c050a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClosetDoor008Mat
+    second: {fileID: 2100000, guid: 2064825b31cf28b4585ee04baa9c36fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FirstFloorBackPatioPillarsMat
+    second: {fileID: 2100000, guid: 3a63a1db5ac8295459a00e30fb9f6b11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FirstFloorFrontPillarsMat
+    second: {fileID: 2100000, guid: fe1222aa850ecdb46955abf759c43374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FirstFloorWallTrimsMat
+    second: {fileID: 2100000, guid: 8e645480f61315d4c8d97c1e83769bd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FirstFloorWalls_MultiSubObject_Mat
+    second: {fileID: 2100000, guid: 029d3f4096230d04289877441b268ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FirstStoryRoof_Inside_Mat
+    second: {fileID: 2100000, guid: cc5a6f2265913c8418bcc82e0c67d126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_MultiSubObject_MAT_001Mat
+    second: {fileID: 2100000, guid: e513e74cacef3b64f8701e3793db7a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_MultiSubObject_MAT_002Mat
+    second: {fileID: 2100000, guid: 77ec425aeb108f44b87a86d4705e7906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontDoor001Mat
+    second: {fileID: 2100000, guid: 3879f069c50bdc44a9542cd9dcb65f52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontDoor002Mat
+    second: {fileID: 2100000, guid: 135db12b2f6027541b5a298ef4340673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontDoor003Mat
+    second: {fileID: 2100000, guid: 38518e0a0b8148547986ad46484a59a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontDoor004Mat
+    second: {fileID: 2100000, guid: 928f0458ba94a1a46a7c972f9c6b8b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallDoor001Mat
+    second: {fileID: 2100000, guid: 63bbd69dcc3f772448f6744599eb4046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallDoor002Mat
+    second: {fileID: 2100000, guid: 9e244f9cca5bbeb45a173a1ba6a36f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallDoor003Mat
+    second: {fileID: 2100000, guid: a0a86b3e76819404bae3063d46ec18f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallDoor004Mat
+    second: {fileID: 2100000, guid: 9ad48d304bda2a648890a853accc1884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LivingRoomWindow001Mat
+    second: {fileID: 2100000, guid: b35ac9998df57ac40b78c02657ff4baf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LivingRoomWindow002Mat
+    second: {fileID: 2100000, guid: 9aa6034735c6daf43b1590245c672a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LivingRoomWindow003Mat
+    second: {fileID: 2100000, guid: 9d020dc3e2458fe459f174c1283ed939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LivingRoomWindow004Mat
+    second: {fileID: 2100000, guid: e1d0add311c93474c8c71fb6382c7410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainRoofFrameMat
+    second: {fileID: 2100000, guid: 1c7580fc62611fc49be5ce9fbd6bb0d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainRoofMat
+    second: {fileID: 2100000, guid: d37ae098de6bcbf42bec0676850bb1ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutSideCornerFramesMat
+    second: {fileID: 2100000, guid: 1968e0cedc97fe142a1e8a2ec64d8f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor002Mat
+    second: {fileID: 2100000, guid: 130ebe27e0cd417448a0ee7c7c1cb91b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor003Mat
+    second: {fileID: 2100000, guid: 32c9b84dc3ee7b94f90cfd0e42f2e0a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor004Mat
+    second: {fileID: 2100000, guid: 1d222fc6f8ff4c84c92957bd7a55f2c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor005Mat
+    second: {fileID: 2100000, guid: 24b36b39000c31f4580c0c7eb67755d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor006Mat
+    second: {fileID: 2100000, guid: 9fa85165aa22bda4498593b06b8a2f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor007Mat
+    second: {fileID: 2100000, guid: bb02f8b9d93f1af429caeba6520a488a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor008Mat
+    second: {fileID: 2100000, guid: 8fc00f3add2157e4db37d31889e3afc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor009Mat
+    second: {fileID: 2100000, guid: d8da063aa2a52824db6d466f1053662e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor010Mat
+    second: {fileID: 2100000, guid: c8064dc4b59c95545bd68700e7102cd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor011Mat
+    second: {fileID: 2100000, guid: f1a67a2e7605834409cb5d43028cc8fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor012Mat
+    second: {fileID: 2100000, guid: f5ebc97a860929a4a915b63117d41450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor013Mat
+    second: {fileID: 2100000, guid: 6fce4b5ddddc0f342b507691ef078f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor014Mat
+    second: {fileID: 2100000, guid: 401c0e19af7c5674fa000bd2a9795d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor015Mat
+    second: {fileID: 2100000, guid: 8641372f1ad04ff469197aa2bf304adb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor016Mat
+    second: {fileID: 2100000, guid: e2f5edb513220bc42a048c1b3cb87e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor017Mat
+    second: {fileID: 2100000, guid: 9cd0a33a6e96ab849b114656f4b8166d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor018Mat
+    second: {fileID: 2100000, guid: ffbbde329a4c2c6439fca44fdbda683d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor019Mat
+    second: {fileID: 2100000, guid: 01dac2defd8141a4facea83d5b5610ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor020Mat
+    second: {fileID: 2100000, guid: 5af4f820f2c75b24d8b75f0ad3fc0f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor021Mat
+    second: {fileID: 2100000, guid: e5d8e2652cd58104c9893fbf39dfd565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor022Mat
+    second: {fileID: 2100000, guid: 89a942ccdba1ea642965750df7fa624d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor023Mat
+    second: {fileID: 2100000, guid: fe9dbeaf8bc25bf44bf5335965044c62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor024Mat
+    second: {fileID: 2100000, guid: ceccc3fac499ab24182164c796a5f5e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor025Mat
+    second: {fileID: 2100000, guid: 45327789d437c9d4ca14c73dac07d662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor026Mat
+    second: {fileID: 2100000, guid: a75385506bbc1fd47927bec246b2788c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor027Mat
+    second: {fileID: 2100000, guid: 8ff033da90fc97543b9687118189170e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor028Mat
+    second: {fileID: 2100000, guid: 52fda208f10b7514883bada8fa82c907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor029Mat
+    second: {fileID: 2100000, guid: 36ad0531ef499334f8819e6a06a67334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor030Mat
+    second: {fileID: 2100000, guid: 5e3fbded29f95ea4d96e568b3b9bbd1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor031Mat
+    second: {fileID: 2100000, guid: 3a64876a97b770243a454936a5877fec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor032Mat
+    second: {fileID: 2100000, guid: 01d423d99b8f1ac4eb02f9dd8af91a9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PivotDoor033Mat
+    second: {fileID: 2100000, guid: 9841d96be54cc4f42b99a4f1d7286d9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofWallsMat
+    second: {fileID: 2100000, guid: 7b7eb858db440f741ae09f6a6fe38480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondFloorFrontRailingMat
+    second: {fileID: 2100000, guid: df75da0bdf697b94b84d05603365f823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondFloorPatioRailingMat
+    second: {fileID: 2100000, guid: e384548301239ba4783f3b99b3f3f589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondFloorPatiosMat
+    second: {fileID: 2100000, guid: ef2a0810ef8917246a30d3e06bb777e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondFloorPillarsMat
+    second: {fileID: 2100000, guid: 77acf2195d995a84f80ceb351aecc406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondFloorWalkWayMat
+    second: {fileID: 2100000, guid: 4a12f33e9d81aa24ca262c888694b43d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondFloorWallTrimsMat
+    second: {fileID: 2100000, guid: 839bb3b0320076147a33f92e022c56b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondFloorWalls_MultiSubObject_001Mat
+    second: {fileID: 2100000, guid: 45848ebf533fe1849807d761cf00a276, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondStoryFloor_MSOM_Mat
+    second: {fileID: 2100000, guid: adaf9fc092a33784f8e51a2696617a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondStoryRoof_Inside_Mat
+    second: {fileID: 2100000, guid: 18cdfdb81420dd142a7016509522612f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StraightStairMat
+    second: {fileID: 2100000, guid: b6d2ce869aa72d24bbdfc7a68dacb2d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallTrims002Mat
+    second: {fileID: 2100000, guid: 3238f5e25ec42584aaf9a97bee718b10, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
