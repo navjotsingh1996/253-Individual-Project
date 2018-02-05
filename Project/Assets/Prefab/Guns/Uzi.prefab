@@ -351,7 +351,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 910556536e7ecf04eafd8caa0d8e2a28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shooting: {fileID: 8300000, guid: 9abbf7f0026d26143a3be7f7994dbf61, type: 3}
+  shooting: {fileID: 8300000, guid: 4ce08b9dc743b494ca757e0e028c9b58, type: 3}
   reloading: {fileID: 8300000, guid: e92850b9a953d1d47929bfd9c837c7ae, type: 3}
 --- !u!114 &114791256663521286
 MonoBehaviour:

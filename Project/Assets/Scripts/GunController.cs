@@ -70,7 +70,13 @@ public class GunController : MonoBehaviour {
         }
         if (Input.GetMouseButtonUp(0))
         {
-            audioSrc.Stop();
+            if (myGun.getWait())
+            {
+                audioSrc.loop = false;
+            } else
+            {
+                audioSrc.Stop();
+            }
             gameObject.GetComponent<Animation>().GetClip("Shoot").wrapMode = WrapMode.Once;
         }
 	}
@@ -84,6 +90,7 @@ public class GunController : MonoBehaviour {
     void stopShooting()
     {
         shooting = false;
+        audioSrc.Stop();
     }
 
 

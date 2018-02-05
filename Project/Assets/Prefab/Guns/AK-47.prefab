@@ -171,9 +171,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1498952653757502}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 37.55768, y: 2.25, z: 360.25}
-  m_LocalScale: {x: 0.17, y: 0.17, z: 0.17}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.17554729, y: 0.6366692, z: 1.111908}
+  m_LocalScale: {x: 0.05666667, y: 0.05666667, z: 0.05666667}
   m_Children:
   - {fileID: 4152824651153932}
   - {fileID: 4249109519243228}
@@ -438,5 +438,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 910556536e7ecf04eafd8caa0d8e2a28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shooting: {fileID: 8300000, guid: 6d3b80781e8921646be5e6ec98916402, type: 3}
+  shooting: {fileID: 8300000, guid: 461340dbb2f23774ca52618c7cb14478, type: 3}
   reloading: {fileID: 8300000, guid: e92850b9a953d1d47929bfd9c837c7ae, type: 3}
