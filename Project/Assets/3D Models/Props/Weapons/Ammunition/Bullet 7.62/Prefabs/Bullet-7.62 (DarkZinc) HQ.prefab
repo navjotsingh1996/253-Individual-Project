@@ -74,7 +74,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 478808}
-  - component: {fileID: 20527772}
   m_Layer: 0
   m_Name: Bullet-7.62 (DarkZinc) HQ
   m_TagString: Untagged
@@ -411,32 +410,6 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!205 &20527772
-LODGroup:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 166580}
-  serializedVersion: 2
-  m_LocalReferencePoint: {x: 0, y: 0.00020959135, z: 0}
-  m_Size: 0.058011085
-  m_FadeMode: 0
-  m_AnimateCrossFading: 0
-  m_LODs:
-  - screenRelativeHeight: 0.2012531
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 2383160}
-    - renderer: {fileID: 2335844}
-  - screenRelativeHeight: 0.003722892
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 2345810}
-    - renderer: {fileID: 2323300}
-  - screenRelativeHeight: 0.0020713084
-    fadeTransitionWidth: 0
-    renderers: []
-  m_Enabled: 1
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
