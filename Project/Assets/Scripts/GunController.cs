@@ -10,6 +10,7 @@ public class GunController : MonoBehaviour {
     public GameObject Explosion;
 
     int bulletSpeed = 2000;
+    bool shooting = false;
 
     Animation shoot;
 	// Use this for initialization
@@ -20,17 +21,18 @@ public class GunController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         /* need to integrate with oculus here */
-		if (Input.GetMouseButtonDown(0))
+		if (Input.GetMouseButtonDown(0) && !shooting)
         {
+            shooting = true;
             shoot = gameObject.GetComponent<Animation>();
             shoot.Play();
-            Invoke("stopShooting", shoot.clip.length);
-            GameObject b = Instantiate(Bullet, BulletSpawn.transform.position, Quaternion.identity);
+            GameObject b = Instantiate(Bullet, BulletSpawn.transform.position, BulletSpawn.transform.rotation);
             b.GetComponent<Rigidbody>().AddForce(gameObject.transform.forward * bulletSpeed);
+            Invoke("stopShooting", 0.5f);
         }
 	}
     void stopShooting()
     {
-        shoot.Stop();
+        shooting = false;
     }
 }
